@@ -1,0 +1,28 @@
+body{
+    background: ivory
+
+}
+
+.container{
+    width: 70%;
+    margin: 10px auto;
+}
+
+h1{
+    color: darkgreen;
+    text-align: center;
+    font-weight: bold;
+}
+
+ol{
+    list-style-type:lower-greek;
+}
+
+ul{
+    list-style-type:lower-roman;
+}
+
+ul ul{
+    list-style-type:lower-latin;
+    font-weight: bold;
+}
