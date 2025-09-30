@@ -1,0 +1,39 @@
+body{
+    background: ivory;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width:50%;
+    display:block;
+    margin:10px auto;
+    padding:20px;
+    background:green;
+    border:3px solid blue;
+}
+
+h1{
+    font-family:cursive;
+}
+
+p{
+    font-family:ui-serif;
+}
+
+ul{
+    list-style-type:inherit;
+}
+
+ol{
+    list-style-type:square;
+}
+
+dt{
+    color:chocolate;
+    font-weight:bold;
+}
+
+dd{
+    color:blue;
+    margin-left:20px;
+}
