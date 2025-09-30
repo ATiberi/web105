@@ -1,0 +1,35 @@
+body{
+    background:ivory;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+nav a{
+    font-size:larger;
+    padding: 10px 20px;
+    background-color:rgb(127, 172, 255);
+    font-weight:bold;
+    text-decoration:none;
+    margin-left:30px;
+    border-radius:10px;
+    bordeR: 2px solid;
+}
+
+nav{
+    text-align:center;
+}
+
+h1{
+    text-align:center;
+}
+
+nav a:hover{
+    color:ivory;
+    background: black;
+
+}
+
+a{
+    color:rgb(0, 0, 0);
+    font-style:italic;
+}
