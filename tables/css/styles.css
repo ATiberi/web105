@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(77, 198, 238);
+}
+
+table, th, td { border: 1px solid black; } table { margin: 20px auto; border-collapse: collapse; }
+
+th { background-color: #ff4545; color: white; } td { text-align: center; vertical-align: middle; border: 1px solid #ddd; } tr:hover { background-color: #f0f0ff; }
+
+table { width: 90%; margin: 0 auto; border: 2px solid #903131; } th { background-color: #ff5b5b; color: #fff; padding: 10px; } td { height: 80px; text-align: center; font-style:oblique; background-color:white}
