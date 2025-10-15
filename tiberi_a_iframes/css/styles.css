@@ -1,0 +1,56 @@
+body {
+  background-image: url("https://imgs.search.brave.com/hD9bltyRQjHuv2-3KJZPddyvDMs8rTIeQ6DSiuw5MBk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xLWJh/Y2tncm91bmQuY29t/L2ltYWdlcy9zdGFy/cy0xL2JlYXV0aWZ1/bC1ibHVlLXN0YXJz/LWZpbGwuanBn");
+  background-size: auto;            
+  background-repeat: repeat;   
+  margin: 0;
+  padding: 0;
+}
+/*A nice old styled tiled background repeating :)*/
+
+
+
+/* General iframe styling */
+iframe {
+  display: block;              /* keeps each frame on its own line */
+  margin: 20px auto;           /* centers the frame horizontally */
+  border: 8px ridge #9b76ff;   /* MCC purple border */
+  border-radius: 12px;          /* rounded corners */
+  box-shadow: 0 0 10px rgba(87, 179, 255, 0.2); /* soft shadow */
+}
+
+/* Specific sizes */
+.content-frame {
+  width: 40%;
+  height: 800px;
+}
+
+.video-frame {
+  width: 720px;
+  height: 450px;
+  max-width: 100%;  /* scales down on small screens */
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 5px blue; /* Neat trick I found */
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px blue;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px blue;
+}
+
+p {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px blue;
+}
